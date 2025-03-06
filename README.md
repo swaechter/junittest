@@ -1,0 +1,1 @@
+Reproducer for: https://github.com/junit-team/junit5/issues/4374
